@@ -1,10 +1,15 @@
 ### Hi 👋, I'm a developing software developer 😄
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevilha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevilha)
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevilha&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=sevilha&theme=buefy"/></td>
+    </tr>   
+</table>
+</center> 
 
-
-
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,docker,git,go,linux,md,mysql,javascript,typescript)](https://skillicons.dev)
 <!--
 **sevilha/sevilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
